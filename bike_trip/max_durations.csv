@@ -1,0 +1,101 @@
+start_station_id,end_station_id,n_trips,duration,start_station_name,end_station_name
+66,62,111,17367175,South Van Ness at Market,2nd at Folsom
+50,50,1733,10819388,Harry Bridges Plaza (Ferry Building),Harry Bridges Plaza (Ferry Building)
+60,60,2092,9209028,Embarcadero at Sansome,Embarcadero at Sansome
+35,35,894,8264042,University and Emerson,University and Emerson
+50,60,6164,7793685,Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome
+71,71,619,6511257,Powell at Post (Union Square),Powell at Post (Union Square)
+76,76,724,6134989,Market at 4th,Market at 4th
+39,39,614,5771049,Powell Street BART,Powell Street BART
+28,28,528,4551306,Mountain View Caltrain Station,Mountain View Caltrain Station
+67,67,666,4178770,Market at 10th,Market at 10th
+3,3,391,4049992,San Jose Civic Center,San Jose Civic Center
+74,74,668,3967918,Steuart at Market,Steuart at Market
+72,72,436,3766862,Civic Center BART (7th at Market),Civic Center BART (7th at Market)
+70,70,533,3615683,San Francisco Caltrain (Townsend at 4th),San Francisco Caltrain (Townsend at 4th)
+73,73,479,3328525,Grant Avenue at Columbus Avenue,Grant Avenue at Columbus Avenue
+34,34,396,3056384,Palo Alto Caltrain Station,Palo Alto Caltrain Station
+70,50,3622,3036218,San Francisco Caltrain (Townsend at 4th),Harry Bridges Plaza (Ferry Building)
+48,48,620,2932682,Embarcadero at Vallejo,Embarcadero at Vallejo
+50,61,4357,2913319,Harry Bridges Plaza (Ferry Building),2nd at Townsend
+60,50,3231,2903217,Embarcadero at Sansome,Harry Bridges Plaza (Ferry Building)
+51,70,3967,2844287,Embarcadero at Folsom,San Francisco Caltrain (Townsend at 4th)
+61,50,4839,2821533,2nd at Townsend,Harry Bridges Plaza (Ferry Building)
+50,70,3033,2797767,Harry Bridges Plaza (Ferry Building),San Francisco Caltrain (Townsend at 4th)
+57,57,400,2781728,5th at Howard,5th at Howard
+74,60,3116,2778490,Steuart at Market,Embarcadero at Sansome
+54,54,580,2734969,Embarcadero at Bryant,Embarcadero at Bryant
+48,60,1181,2720617,Embarcadero at Vallejo,Embarcadero at Sansome
+29,29,133,2711990,San Antonio Caltrain Station,San Antonio Caltrain Station
+36,36,213,2624476,California Ave Caltrain Station,California Ave Caltrain Station
+70,55,3510,2593350,San Francisco Caltrain (Townsend at 4th),Temporary Transbay Terminal (Howard at Beale)
+74,70,3477,2582965,Steuart at Market,San Francisco Caltrain (Townsend at 4th)
+33,33,160,2570643,Rengstorff Avenue / California Street,Rengstorff Avenue / California Street
+67,70,3190,2431220,Market at 10th,San Francisco Caltrain (Townsend at 4th)
+50,48,1286,2375571,Harry Bridges Plaza (Ferry Building),Embarcadero at Vallejo
+77,68,492,2371076,Market at Sansome,Yerba Buena Center of the Arts (3rd @ Howard)
+41,41,384,2361821,Clay at Battery,Clay at Battery
+54,60,1318,2329041,Embarcadero at Bryant,Embarcadero at Sansome
+76,60,929,2321245,Market at 4th,Embarcadero at Sansome
+60,74,4269,2316082,Embarcadero at Sansome,Steuart at Market
+55,70,3526,2309366,Temporary Transbay Terminal (Howard at Beale),San Francisco Caltrain (Townsend at 4th)
+74,61,3903,2251110,Steuart at Market,2nd at Townsend
+70,77,2598,2216985,San Francisco Caltrain (Townsend at 4th),Market at Sansome
+61,61,683,2142857,2nd at Townsend,2nd at Townsend
+70,74,2866,2131235,San Francisco Caltrain (Townsend at 4th),Steuart at Market
+46,46,319,2113379,Washington at Kearney,Washington at Kearney
+69,39,3438,2009268,San Francisco Caltrain 2 (330 Townsend),Powell Street BART
+66,66,368,2003420,South Van Ness at Market,South Van Ness at Market
+71,60,788,1988316,Powell at Post (Union Square),Embarcadero at Sansome
+69,65,6216,1972347,San Francisco Caltrain 2 (330 Townsend),Townsend at 7th
+64,77,3627,1960251,2nd at South Park,Market at Sansome
+77,60,1321,1959939,Market at Sansome,Embarcadero at Sansome
+70,51,3031,1954045,San Francisco Caltrain (Townsend at 4th),Embarcadero at Folsom
+70,60,1494,1952058,San Francisco Caltrain (Townsend at 4th),Embarcadero at Sansome
+69,67,2230,1930389,San Francisco Caltrain 2 (330 Townsend),Market at 10th
+38,38,90,1929271,Park at Olive,Park at Olive
+77,77,405,1912536,Market at Sansome,Market at Sansome
+31,32,26,1899121,San Antonio Shopping Center,Castro Street and El Camino Real
+9,9,230,1838552,Japantown,Japantown
+27,27,197,1817222,Mountain View City Hall,Mountain View City Hall
+42,42,522,1804259,Davis at Jackson,Davis at Jackson
+39,60,566,1799464,Powell Street BART,Embarcadero at Sansome
+56,56,255,1751908,Beale at Market,Beale at Market
+76,70,2797,1738414,Market at 4th,San Francisco Caltrain (Townsend at 4th)
+37,37,169,1732588,Cowper at University,Cowper at University
+6,6,197,1727118,San Pedro Square,San Pedro Square
+2,2,191,1724363,San Jose Diridon Caltrain Station,San Jose Diridon Caltrain Station
+60,73,589,1715313,Embarcadero at Sansome,Grant Avenue at Columbus Avenue
+77,70,2408,1690610,Market at Sansome,San Francisco Caltrain (Townsend at 4th)
+68,68,328,1690141,Yerba Buena Center of the Arts (3rd @ Howard),Yerba Buena Center of the Arts (3rd @ Howard)
+22,22,155,1689126,Redwood City Caltrain Station,Redwood City Caltrain Station
+61,74,2877,1688549,2nd at Townsend,Steuart at Market
+39,67,2087,1670634,Powell Street BART,Market at 10th
+60,70,1312,1648009,Embarcadero at Sansome,San Francisco Caltrain (Townsend at 4th)
+60,76,970,1598775,Embarcadero at Sansome,Market at 4th
+72,65,2672,1559054,Civic Center BART (7th at Market),Townsend at 7th
+56,70,2042,1552883,Beale at Market,San Francisco Caltrain (Townsend at 4th)
+50,73,580,1540024,Harry Bridges Plaza (Ferry Building),Grant Avenue at Columbus Avenue
+34,36,429,1527783,Palo Alto Caltrain Station,California Ave Caltrain Station
+74,69,2103,1514243,Steuart at Market,San Francisco Caltrain 2 (330 Townsend)
+76,67,2061,1512480,Market at 4th,Market at 10th
+59,59,210,1497086,Golden Gate at Polk,Golden Gate at Polk
+4,4,198,1495756,Santa Clara at Almaden,Santa Clara at Almaden
+2,12,190,1487769,San Jose Diridon Caltrain Station,SJSU 4th at San Carlos
+41,70,1575,1480137,Clay at Battery,San Francisco Caltrain (Townsend at 4th)
+42,70,1594,1467225,Davis at Jackson,San Francisco Caltrain (Townsend at 4th)
+39,70,1852,1466493,Powell Street BART,San Francisco Caltrain (Townsend at 4th)
+65,72,2698,1448653,Townsend at 7th,Civic Center BART (7th at Market)
+65,70,5041,1437680,Townsend at 7th,San Francisco Caltrain (Townsend at 4th)
+77,64,3427,1434826,Market at Sansome,2nd at South Park
+50,69,1391,1434744,Harry Bridges Plaza (Ferry Building),San Francisco Caltrain 2 (330 Townsend)
+70,42,1700,1418234,San Francisco Caltrain (Townsend at 4th),Davis at Jackson
+60,39,790,1414439,Embarcadero at Sansome,Powell Street BART
+82,70,1457,1406381,Broadway St at Battery St,San Francisco Caltrain (Townsend at 4th)
+73,77,2332,1403971,Grant Avenue at Columbus Avenue,Market at Sansome
+65,50,1449,1400216,Townsend at 7th,Harry Bridges Plaza (Ferry Building)
+75,75,325,1399372,Mechanics Plaza (Market at Battery),Mechanics Plaza (Market at Battery)
+48,50,731,1396426,Embarcadero at Vallejo,Harry Bridges Plaza (Ferry Building)
+70,48,1288,1382065,San Francisco Caltrain (Townsend at 4th),Embarcadero at Vallejo
+39,69,2854,1381926,Powell Street BART,San Francisco Caltrain 2 (330 Townsend)
+58,58,268,1369298,San Francisco City Hall,San Francisco City Hall
