@@ -34,5 +34,12 @@ The graph network above depicts station ids by their connections (connected due 
 
 The graph network depicts those stations that have the top 100 bike trips.  
 The station ids marked in orange have the top 10 bike trips.
-The trips are marked by green line - for trips > 4500K , blue line for trips between 2500 and 4500 K and red lines for trips less than 2500K.  
+The trips are marked by green line - for trips > 4000 , blue line for trips between 2500 and 4000  and red lines for trips less than 2500.  
 
+#### Stations with maximum total duration of bike trips.
+
+![g3](https://user-images.githubusercontent.com/20832632/132710884-5b9e395d-708a-4ba0-bac1-df54693bf180.png)
+
+The graph network depicts those stations that have the top 100 durations of bike trips.  
+The station ids marked in orange have the top 10 durations
+The trips are marked by green line - for duration  > 4500K  , blue line for durations between 2500 K and 4500 K   and red lines for durations less than 2500 K.  
