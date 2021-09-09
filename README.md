@@ -13,3 +13,7 @@ All the start and end dates are from 29th Aug 2013 to 31st Aug 2015.
 
 # Insights derived from the data:  
 ![stations_per_city](https://user-images.githubusercontent.com/20832632/132625104-7fdbe93a-6c27-42ed-8528-d7ffd6152b87.png)
+
+SFO has the maximum number of stations followed by San Jose.
+
+![pic2](https://user-images.githubusercontent.com/20832632/132631600-6dcaf44e-7a10-482d-865e-59dae384e044.png)
