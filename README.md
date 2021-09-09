@@ -20,4 +20,4 @@ SFO has the maximum number of stations followed by San Jose.
 
 The year 2013 had the least number of available bikes per hour - half of that was available in 2015.  
 The year 2014 has the maximum number of available bikes per hour.    
-In the line graph above , we can see a dip in the lines around 8am and then again between 15-17pm, signifying the maximum usage of bikes during those hours.  
+In the line graph above , we can see a dip in the lines around 8am and then again at 17pm, signifying the maximum usage of bikes during those hours.  
