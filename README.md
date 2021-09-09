@@ -17,3 +17,7 @@ All the start and end dates are from 29th Aug 2013 to 31st Aug 2015.
 SFO has the maximum number of stations followed by San Jose.
 
 ![pic2](https://user-images.githubusercontent.com/20832632/132631600-6dcaf44e-7a10-482d-865e-59dae384e044.png)
+
+The year 2013 had the least number of available bikes per hour - half of that was available in 2015.  
+The year 2014 has the maximum number of available bikes.  
+In the line graph above , we can see a dip in the lines around 8am and then again during 17pm, signifying the maximum usage of bikes during those hours.  
