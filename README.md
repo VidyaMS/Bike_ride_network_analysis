@@ -1,6 +1,6 @@
-# Bike_ride_network_analysis
-######################################################################. 
-Data source : https://www.kaggle.com/benhamner/sf-bay-area-bike-share/version/2. 
+# Bike_ride_network_analysis. 
+######################################################################.      
+Data source : https://www.kaggle.com/benhamner/sf-bay-area-bike-share/version/2.   
 
 Bike ride data from around 70 stations in SFO is made available in the files mentioned below:  
 trip.csv - contains the trip data with the details such as the start and end stations, date of the trip , duration of the trip , subscription type, zipcode etc.    
