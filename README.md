@@ -30,7 +30,7 @@ The graph network above depicts station ids by their connections (connected due 
 
 #### Stations with maximum number of trips.  
 
-![g2](https://user-images.githubusercontent.com/20832632/132704347-2b62c931-0f63-44de-864e-1731750b63fe.png)
+![g4](https://user-images.githubusercontent.com/20832632/132711695-31b05d69-3808-4573-9f84-44fb0f0a8fc7.png)
 
 The graph network depicts those stations that have the top 100 bike trips.  
 The station ids marked in orange have the top 10 bike trips.
