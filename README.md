@@ -11,7 +11,7 @@ Weather data is made avilable in weather.csv with details such as max , min temp
 All the start and end dates are from 29th Aug 2013 to 31st Aug 2015.  
 #####################################################################
 
-# Insights derived from the data:  
+### Insights derived from the data:  
 ![stations_per_city](https://user-images.githubusercontent.com/20832632/132625104-7fdbe93a-6c27-42ed-8528-d7ffd6152b87.png)
 
 SFO has the maximum number of stations followed by San Jose.
@@ -22,7 +22,7 @@ The year 2013 had the least number of available bikes per hour - half of that wa
 The year 2014 has the maximum number of available bikes per hour.    
 In the line graph above , we can see a dip in the lines around 8am and then again at 17pm, signifying the maximum usage of bikes during those hours.  
 
-# Network Analysis.  
+### Network Analysis.  
 
 ![g1](https://user-images.githubusercontent.com/20832632/132632471-b797e196-afd8-4419-98c1-506c4ca94bd3.png)
 
